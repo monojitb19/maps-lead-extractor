@@ -1,6 +1,6 @@
 <div align="center">
 
-# Maps Lead Extractor
+# Google Maps Lead Extractor
 
 **Search Google Maps. Click once. Get a ready-to-use lead list.**
 
